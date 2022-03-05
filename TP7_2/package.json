@@ -1,0 +1,15 @@
+{
+  "name": "tp7_2",
+  "version": "1.0.0",
+  "main": "kh_date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
