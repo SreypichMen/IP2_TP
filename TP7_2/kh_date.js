@@ -6,7 +6,7 @@ var path = require('path');
 var public = path.join(__dirname, '');
 
 
-app.get('script', function(req, res) {
+app.get('/script', function(req, res) {
     res.sendFile(path.join(public, 'script.js'));
 });
 
